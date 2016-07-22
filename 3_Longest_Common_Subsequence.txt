@@ -1,0 +1,3 @@
+AGACTG
+GTACGA
+https://github.com/ahmdeen/Bioinformatic-Algorthims/tree/7cae61bb45535911f220da290f9ecf609b964058
